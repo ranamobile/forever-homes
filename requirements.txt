@@ -1,1 +1,2 @@
 googlemaps==2.5.1
+python-zillow==0.1.1
